@@ -5,6 +5,12 @@ body {
     margin: auto;
     
 }
+
+h3 {
+    position: relative;
+    margin-top: 65px;
+}
+
 /* Start of the Navigation bar*/
 
 #navBar {
@@ -49,7 +55,7 @@ body {
 }
 /* End of the Navigation bar */
 
-.text{
+.text {
     text-align: center;
     font-family: verdana;
 }
@@ -96,13 +102,14 @@ body {
 #renameList {
     position: absolute;
     top:2%;
-    left:19%;
+    left:25%;
+
 }
 
 #delList {
     position:absolute;
     top:2%;
-    left:88%;
+    left:62.3%;
     background-color:red;
 }
 
@@ -171,6 +178,5 @@ body {
 #addList {
     position:absolute;
     top:2%;
-    left:3%;
+    left:42%;
 }
-    
